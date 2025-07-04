@@ -395,6 +395,7 @@ ul {
   text-wrap: balance;
   z-index: auto;
   background: linear-gradient(#0e0e0e00 48%, #0e0e0eab 100%);
+  border-radius: 12px;
 }
 
 .grid-wrapper img {
@@ -415,6 +416,31 @@ ul {
   object-fit: cover;
   font-family: "object-fit: cover;";
 }
+.hero-right-bottom-content {
+  position: absolute;
+  padding: 0px 18px 18px 18px;
+  width: 100%;
+  top: 457px;
+}
+.hero-right-bottom-content .content-title {
+  color: rgb(255, 255, 255) !important;
+  letter-spacing: 0.13505px;
+  font-family: "Graphik", -apple-system, "Helvetica Neue", "Droid Sans", Arial,
+    "sans-serif";
+  font-size: 27.01px;
+  font-weight: 500;
+  line-height: 1.3;
+}
+.hero-right-bottom-content .content-subtitle {
+  color: rgb(255, 255, 255) !important;
+  letter-spacing: 0.08px;
+  font-family: "Graphik", -apple-system, "Helvetica Neue", "Droid Sans", Arial,
+    "sans-serif";
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.25;
+}
+
 @media (min-width: 900px) {
   header {
     border-bottom: none !important;
@@ -644,7 +670,7 @@ ul {
 }
 @media (min-width: 1280px) {
   .first-image-container {
-    padding: 24px 22px 24px 50px;
+    padding: 24px 62px 24px 50px;
   }
   .first-image-container .title-text {
     top: 4px;

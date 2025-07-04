@@ -20,5 +20,18 @@
       "fashionFinds": "Fashion Finds",
       "registry": "Registry"
     }
+  },
+  "heroSection": {
+    "title": "Handpicked finds",
+    "subtitle": "Special items from unique Etsy sellers",
+    "shopNowButton": "Shop now",
+    "imageAlts": {
+      "mainImage": "A set of black vintage candlesticks sit on top of books.",
+      "secondaryImage": "Cushions"
+    },
+    "bottom-content": {
+      "title": "Personalised Potraits",
+      "subtitle": "Shop now"
+    }
   }
 }
