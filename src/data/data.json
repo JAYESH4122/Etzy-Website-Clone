@@ -1,0 +1,24 @@
+{
+  "header": {
+    "logo": {
+      "altText": "Company Logo"
+    },
+    "categories": {
+      "button": "Categories"
+    },
+    "search": {
+      "placeholder": "Search for anything"
+    },
+    "navigation": {
+      "signIn": "Sign in",
+      "country": "INDIA"
+    },
+    "subHeader": {
+      "gifts": "Gifts",
+      "charmShop": "The Charm Shop",
+      "homeFavorites": "Home Favourites",
+      "fashionFinds": "Fashion Finds",
+      "registry": "Registry"
+    }
+  }
+}
