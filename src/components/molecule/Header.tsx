@@ -1,6 +1,7 @@
 import data from '../../data/data.json';
+import type { HeaderData } from '../../types/datatypes';
 
-const { header } = data
+const { header }: {header: HeaderData} = data
 
 const Header = () => {
   return (

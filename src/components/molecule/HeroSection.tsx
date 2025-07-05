@@ -1,6 +1,7 @@
 import data from "../../data/data.json";
+import type { HeroSectionData } from "../../types/datatypes";
 
-const { heroSection } = data;
+const { heroSection } : {heroSection: HeroSectionData} = data;
 
 const HeroSection = () => {
   return (
