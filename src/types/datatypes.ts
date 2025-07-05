@@ -38,3 +38,18 @@ export interface HeroSectionData {
   imageAlts: HeroImageAlts;
   "bottom-content": BottomContent;
 }
+
+export interface PopularCardProps {
+  src: string;
+  alt: string;
+  caption: string;
+}
+
+export interface PopularCategory {
+  title: string;
+  popularCard: PopularCardProps[];
+}
+
+export interface FullData {
+  popularcategory: PopularCategory;
+}

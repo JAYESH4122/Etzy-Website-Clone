@@ -33,5 +33,40 @@
       "title": "Personalised Potraits",
       "subtitle": "Shop now"
     }
+  },
+  "popularcategory": {
+    "title": "Shop our most popular categories",
+    "popularCard": [
+      {
+        "src": "popular-card-image1.webp",
+        "alt": "template1",
+        "caption": "templates"
+      },
+      {
+        "src": "popular-card-image2.webp",
+        "alt": "template2",
+        "caption": "templates"
+      },
+      {
+        "src": "popular-card-image3.webp",
+        "alt": "template3",
+        "caption": "templates"
+      },
+      {
+        "src": "popular-card-image4.webp",
+        "alt": "template4",
+        "caption": "templates"
+      },
+      {
+        "src": "popular-card-image5.webp",
+        "alt": "template5",
+        "caption": "templates"
+      },
+      {
+        "src": "popular-card-image6.webp",
+        "alt": "template6",
+        "caption": "templates"
+      }
+    ]
   }
 }
