@@ -1,6 +1,7 @@
 import Header from "./components/molecule/Header";
 import HeroSection from "./components/molecule/HeroSection";
 import PopularCategorySection from "./components/molecule/PopularCategorySection";
+import GiftsSection from "./components/molecule/GiftsSection";
 
 const App = () => {
   return (
@@ -8,6 +9,7 @@ const App = () => {
       <Header />
       <HeroSection />
       <PopularCategorySection />
+      <GiftsSection />
     </div>
   );
 };

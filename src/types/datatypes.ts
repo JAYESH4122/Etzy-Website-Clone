@@ -50,6 +50,17 @@ export interface PopularCategory {
   popularCard: PopularCardProps[];
 }
 
+export interface GiftCategoryData {
+  title: string;
+  giftcard: GiftCardProps[];
+}
+
+export interface GiftCardProps {
+  src: string;
+  alt: string;
+  caption: string;
+}
+
 export interface FullData {
   popularcategory: PopularCategory;
 }

@@ -68,5 +68,40 @@
         "caption": "templates"
       }
     ]
+  },
+  "giftCategory": {
+    "title": "Gifts as special as they are",
+    "giftcard": [
+      {
+        "src": "gift-card-image1.avif",
+        "alt": "Gifts for kids",
+        "caption": "Gifts for kids"
+      },
+      {
+        "src": "gift-card-image2.avif",
+        "alt": "Host Gifts",
+        "caption": "Host Gifts"
+      },
+      {
+        "src": "gift-card-image3.avif",
+        "alt": "Wedding Gifts",
+        "caption": "Wedding Gifts"
+      },
+      {
+        "src": "gift-card-image4.avif",
+        "alt": "Summer Gifts",
+        "caption": "Summer Gifts"
+      },
+      {
+        "src": "gift-card-image5.avif",
+        "alt": "Ruby Jewellery",
+        "caption": "Ruby Jewellery"
+      },
+      {
+        "src": "gift-card-image6.avif",
+        "alt": "Personalized Gifts",
+        "caption": "Personalized Gifts"
+      }
+    ]
   }
 }
