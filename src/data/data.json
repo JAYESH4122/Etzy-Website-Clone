@@ -15,7 +15,7 @@
     },
     "subHeader": {
       "gifts": "Gifts",
-      "charmShop": "The Charm Shop",
+      "charmShop": "Special Birthday Gifts",
       "homeFavorites": "Home Favourites",
       "fashionFinds": "Fashion Finds",
       "registry": "Registry"
@@ -101,6 +101,56 @@
         "src": "gift-card-image6.avif",
         "alt": "Personalized Gifts",
         "caption": "Personalized Gifts"
+      }
+    ]
+  },
+  "popularGiftsSectionData": {
+    "title": "Popular gifts right now",
+    "popularGiftsCard": [
+      {
+        "productImageSrc": "/popular-gift-image1.avif",
+        "heading": "Personalized Beach Towel, Personalized Gift, Bachelorette Party, Bridesmaid Gifts, Wedding Favors, Party Favor, Gift for Her, Wedding Gifts",
+        "ratingCount": "15,651",
+        "rupeesign": "₹",
+        "price": "311",
+        "offerprice": "311",
+        "offerpercentage": "53% off"
+      },
+      {
+        "productImageSrc": "/popular-gift-image1.avif",
+        "heading": "Personalized Beach Towel, Personalized Gift,...",
+        "ratingCount": "15,651",
+        "rupeesign": "₹",
+        "price": "311",
+        "offerprice": "311",
+        "offerpercentage": "53% off"
+      },
+      {
+        "productImageSrc": "/popular-gift-image1.avif",
+        "heading": "Personalized Beach Towel, Personalized Gift,...",
+        "ratingCount": "15,651",
+        "rupeesign": "₹",
+        "price": "311",
+        "offerprice": "311",
+        "offerpercentage": "53% off"
+      },
+      {
+        "productImageSrc": "/popular-gift-image1.avif",
+        "heading": "Personalized Beach Towel, Personalized Gift,...",
+        "ratingCount": "15,651",
+        "rupeesign": "₹",
+        "price": "311",
+        "offerprice": "311",
+        "offerpercentage": "53% off"
+      },
+      {
+        "productImageSrc": "/popular-gift-image1.avif",
+        "heading": "Personalized Beach Towel, Personalized Gift,...",
+        "ratingCount": "15,651",
+        "rupeesign": "₹",
+        "price": "311",
+        "offerprice": "311",
+        "offerpercentage": "53% off"
       }
     ]
   }

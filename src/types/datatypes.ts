@@ -64,3 +64,18 @@ export interface GiftCardProps {
 export interface FullData {
   popularcategory: PopularCategory;
 }
+
+export interface PopularGiftsSectionType {
+  title: string;
+  popularGiftsCard: PopularGiftsCardProps[];
+}
+
+export interface PopularGiftsCardProps {
+  productImageSrc: string;
+  heading: string;
+  ratingCount: string;
+  rupeesign: string;
+  price: string;
+  offerprice: string;
+  offerpercentage: string;
+}
