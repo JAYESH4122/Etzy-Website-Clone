@@ -426,8 +426,9 @@ h3 {
 .hero-right-bottom-content {
   position: absolute;
   padding: 0px 18px 18px 18px;
-  width: 100%;
   top: 457px;
+  display: inline-block;
+  width: 275px !important;
 }
 .hero-right-bottom-content .content-title {
   color: rgb(255, 255, 255) !important;
@@ -1982,16 +1983,90 @@ h3 {
   .save-now-section .save-now-heading h2 {
     font-size: 24px;
   }
-  .back-to-school-wrapper .row-one-column-third .row-one-column-second-container img {
+  .back-to-school-wrapper
+    .row-one-column-third
+    .row-one-column-second-container
+    img {
     width: 104.98px !important;
     height: 93px !important;
   }
-  .row-one-column-second .row-one-column-second-container img{
-        width: 104.98px !important;
+  .row-one-column-second .row-one-column-second-container img {
+    width: 104.98px !important;
     height: 93px !important;
   }
   .back-to-school-wrapper .special-staple p {
     display: none;
+  }
+  .discover-shops-section .discover-shops-container {
+    display: flex;
+    flex-direction: column;
+  }
+  .discover-shops-container .discover-shops-cards :nth-child(1) {
+    width: 174.5px;
+    height: 173px;
+  }
+  .discover-shops-container .discover-shops-cards {
+    display: flex;
+    height: 100%;
+    margin: 6px 18px;
+    width: 351px;
+    height: 175px;
+  }
+  .discover-shops-cards .brand-container img {
+    width: 34px !important;
+    height: 34px !important;
+  }
+  .brand-container .brandname {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.25;
+    letter-spacing: 0.08px;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important;
+    min-width: 0 !important;
+    overflow: hidden !important;
+    width: 117px;
+  }
+  .discover-shops-container .discover-shops-cards :nth-child(1) {
+    border-bottom-left-radius: 12px;
+    border-top-right-radius: 0px;
+  }
+  .discover-shops-content :nth-child(3) {
+    min-height: 0px;
+    padding: 12px 18px;
+    width: 232px;
+  }
+  .discover-shops-content :nth-child(2) {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1.35;
+    letter-spacing: 0.12px;
+    margin-bottom: 18px;
+  }
+  .discover-shops-content :nth-child(1) {
+    text-align: center;
+    margin-bottom: 0px;
+  }
+  .row-one-column-first .back-to-school-heading {
+    font-size: 18px;
+    text-align: center;
+  }
+  .back-to-school-wrapper .row-one-column-first {
+    max-width: 100%;
+    text-align: center;
+  }
+  .back-to-school-wrapper .row-one-column-third {
+    display: contents;
+  }
+  .row-one-column-first .back-to-school-heading {
+    width: 375px !important;
+    padding-bottom: 12px;
+  }
+  .row-one-column-second-container {
+    margin: 6px;
+  }
+  .back-to-school-container .back-to-school-wrapper {
+    margin: 12px;
   }
 }
 
@@ -2146,16 +2221,31 @@ h3 {
   .right-section-content-column-one .down-arrow {
     display: none;
   }
-  .footer-sub-right-section-content-wrapper :nth-child(5){
+  .footer-sub-right-section-content-wrapper :nth-child(5) {
     display: none;
   }
-  .footer-sub{
+  .footer-sub {
     height: 313px;
   }
-  .input-field-container p {
-    right: 54px;
+  .sub-footer-list {
+    margin-top: 1px;
+  }
+  .hero-right-bottom-content .content-title {
+    margin-bottom: -2px;
+  }
+  .first-image-container .shop-now-btn {
+    padding: 13px 18px 13px 17px;
   }
 }
+.footer-logos-container .footer-logos-sub-container {
+  position: relative;
+
+  top: 16px;
+}
+.footer-logos-sub-container .footer-logos-wrapper:nth-of-type(1) svg {
+  padding: 0px 8px 0px 10px;
+}
+
 @media only screen and (min-width: 640px) and (max-width: 899px) {
   .popular-card {
     width: calc(33.3333% - 50px);
@@ -2250,9 +2340,10 @@ h3 {
     padding-top: 14px;
   }
   .footer-logos-container .footer-logos-sub-container {
-    margin-left: 66px;
+    margin-left: 78px;
     margin-bottom: 1px;
     margin-top: 46px;
+    top: 1px;
   }
   .footer-logos-container .footer-logos-wrapper svg {
     width: 36px;
@@ -2261,6 +2352,13 @@ h3 {
   }
   .footer-logos-wrapper :nth-last-of-type(2) svg {
     margin-right: 2px;
+  }
+  .discover-shops-container .discover-shops-content {
+    margin-right: 0px;
+    margin-bottom: 18px;
+  }
+  .input-field-container p {
+    right: 54px;
   }
 }
 .wrappery {
