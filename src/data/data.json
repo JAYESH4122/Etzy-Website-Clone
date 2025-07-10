@@ -153,5 +153,217 @@
         "offerpercentage": "53% off"
       }
     ]
+  },
+  "backToSchool": {
+    "title": "Back to School",
+    "subtitle": "Editors’ Picks",
+    "ctaText": "Shop these unique finds",
+    "description": "From special staples to first-day outfits, Etsy is every student's stop for school essentials.",
+    "images": [
+      {
+        "src": "/row-one-column-one.png",
+        "width": 278,
+        "height": 240
+      },
+      {
+        "src": "/row-one-column-two.png",
+        "width": 177.33,
+        "height": 240
+      },
+      {
+        "src": "/row-one-column-three.png",
+        "width": 302,
+        "height": 240
+      },
+      {
+        "src": "/row-two-column-one.png",
+        "width": 378.66,
+        "height": 300.69
+      },
+      {
+        "src": "/row-two-column-two.png",
+        "width": 278,
+        "height": 300.69
+      },
+      {
+        "src": "/row-two-column-three.png",
+        "width": 177.33,
+        "height": 300.69
+      }
+    ]
+  },
+  "discoverShops": {
+    "title": "Discover shops in India",
+    "subtitle": "Local finds? Etsy has it.",
+    "ctaText": "Shop from local makers",
+    "shops": [
+      {
+        "productImage": "https://i.etsystatic.com/23351474/r/il/833bfe/6797772556/il_570xN.6797772556_8rxk.jpg",
+        "productAlt": "",
+        "listingId": "1059024413",
+        "shopLogo": "https://i.etsystatic.com/23351474/r/isla/d1db04/41555611/isla_75x75.41555611_60f65lsy.jpg",
+        "shopName": "TheAMYRAStore",
+        "logoHeight": 42
+      },
+      {
+        "productImage": "https://i.etsystatic.com/23351474/r/il/833bfe/6797772556/il_570xN.6797772556_8rxk.jpg",
+        "productAlt": "",
+        "listingId": "1059024413",
+        "shopLogo": "https://i.etsystatic.com/23351474/r/isla/d1db04/41555611/isla_75x75.41555611_60f65lsy.jpg",
+        "shopName": "TheAMYRAStore",
+        "logoHeight": 42
+      },
+      {
+        "productImage": "https://i.etsystatic.com/23351474/r/il/833bfe/6797772556/il_570xN.6797772556_8rxk.jpg",
+        "productAlt": "",
+        "listingId": "1059024413",
+        "shopLogo": "https://i.etsystatic.com/23351474/r/isla/d1db04/41555611/isla_75x75.41555611_60f65lsy.jpg",
+        "shopName": "TheAMYRAStore",
+        "logoHeight": 42
+      }
+    ]
+  },
+
+  "shopLinks": [
+    { "text": "Gift cards" },
+    { "text": "Etsy Registry" },
+    { "text": "Gift Cards" },
+    { "text": "Etzy Registry" },
+    { "text": "Gift Cards" },
+    { "text": "Etzy Registry" },
+    { "text": "Gift Cards" }
+  ],
+  "sellLinks": [
+    { "text": "Gift Cards" },
+    { "text": "Etzy Registry" },
+    { "text": "Gift Cards" },
+    { "text": "Etzy Registry" }
+  ],
+  "aboutLinks": [
+    { "text": "Gift Cards" },
+    { "text": "Etzy Registry" },
+    { "text": "Gift Cards" },
+    { "text": "Etzy Registry" },
+    { "text": "Gift Cards" },
+    { "text": "Etzy Registry" },
+    { "text": "Gift Cards" }
+  ],
+  "helpLinks": [{ "text": "Gift Cards" }, { "text": "Etzy Registry" }],
+  "footerBottomLinks": [
+    "Terms of Use",
+    "Privacy",
+    "Interest-based ads",
+    "Local Shops",
+    "Regions"
+  ],
+  "countryInfo": {
+    "country": "India",
+    "language": "English (IN)",
+    "currency": "₹ (INR)"
+  },
+  "copyright": "© 2025 Etsy, Inc.",
+
+  "sectionTitle": "Fresh from the blog",
+  "posts": [
+    {
+      "id": 1,
+      "category": "Shopping Guides",
+      "title": "9 Comfy Throws for Cosy Autumn Vibes",
+      "description": "Embrace the snuggling season with stylish throws that will warm your hearts.",
+      "imageUrl": "https://i.etsystatic.com/inv/73f1ea/5310016542/inv_620x495.5310016542_ukkxc6qi.jpg?version=0",
+      "altText": "Comfy throws for autumn"
+    },
+    {
+      "id": 2,
+      "category": "Shopping Guides",
+      "title": "9 Comfy Throws for Cosy Autumn Vibes",
+      "description": "Embrace the snuggling season with stylish throws that will warm your hearts.",
+      "imageUrl": "https://i.etsystatic.com/inv/73f1ea/5310016542/inv_620x495.5310016542_ukkxc6qi.jpg?version=0",
+      "altText": "Comfy throws for autumn"
+    },
+    {
+      "id": 3,
+      "category": "Shopping Guides",
+      "title": "9 Comfy Throws for Cosy Autumn Vibes",
+      "description": "Embrace the snuggling season with stylish throws that will warm your hearts.",
+      "imageUrl": "https://i.etsystatic.com/inv/73f1ea/5310016542/inv_620x495.5310016542_ukkxc6qi.jpg?version=0",
+      "altText": "Comfy throws for autumn"
+    }
+  ],
+
+  "mainTitle": "What is Etsy India?",
+  "subtitle": "Read our wonderfully weird story",
+  "questions": [
+    {
+      "id": 1,
+      "title": "",
+      "content": "Etsy is a global marketplace for creative and one-of-a-kind goods. It's home to a universe of special, extraordinary items, from unique home decor pieces to trending fashion finds. Founded in 2005, Etsy began its Indian journey in 2018. <br /> Etsy is a place where creativity lives and thrives because it's powered by people just like you. We help our community of 5.9 million active sellers worldwide turn their ideas into successful small businesses. Our platform connects them with 89.9 million active buyers looking for something special that enables them to express their unique identity."
+    },
+    {
+      "id": 2,
+      "title": "Why choose Etsy?",
+      "content": "<strong>A community doing good</strong><br />Etsy is where people come together to make, sell, buy, and collect unique items. We're also a community pushing for positive change for small businesses, people, and the planet. Here are some of the ways we're making a positive impact, together: Etsy is a global marketplace for creative and one-of-a-kind goods. It's home to a universe of special, extraordinary items, from unique home decor pieces to trending fashion finds. Founded in 2005, Etsy began its Indian journey in 2018. <br /> Etsy is a place where creativity lives and thrives because it's powered by people just like you. We help our community of 5.9 million active sellers worldwide turn their ideas into successful small businesses. Our platform connects them with 89.9 million active buyers looking for something special that enables them to express their unique identity."
+    },
+    {
+      "id": 3,
+      "title": "What can you shop on Etsy?",
+      "content": "The imagination of Etsy sellers can run far and wide, which makes our platform a home to more than 100 million active listings across home, style, and gifts. Some of our popular categories include:<br /><br />Etsy is a place where creativity lives and thrives because it's powered by people just like you. We help our community of 5.9 million active sellers worldwide turn their ideas into successful small businesses. Our platform connects them with 89.9 million active buyers looking for something special that enables them to express their unique identity."
+    },
+    {
+      "id": 4,
+      "title": "What can you shop on Etsy?",
+      "content": "The imagination of Etsy sellers can run far and wide, which makes our platform a home to more than 100 million active listings across home, style, and gifts. Some of our popular categories include:<br />Etsy is a place where creativity lives and thrives because it's powered by people just like you. We help our community of 5.9 million active sellers worldwide turn their ideas into successful small businesses. Our platform connects them with 89.9 million active buyers looking for something special that enables them to express their unique identity."
+    },
+    {
+      "id": 5,
+      "title": "What can you shop on Etsy?",
+      "content": "The imagination of Etsy sellers can run far and wide, which makes our platform a home to more than 100 million active listings across home, style, and gifts. Some of our popular categories include:<br />Etsy is a place where creativity lives and thrives because it's powered by people just like you. We help our community of 5.9 million active sellers worldwide turn their ideas into successful small businesses. Our platform connects them with 89.9 million active buyers looking for something special that enables them to express their unique identity."
+    }
+  ],
+  "helpSection": {
+    "title": "Have a question? Well, we've got some answers.",
+    "buttonText": "Go to Help Centre"
+  },
+
+  "heading": "Save now on standout styles",
+  "items": [
+    {
+      "id": 1,
+      "imageUrl": "https://i.etsystatic.com/21210780/r/il/e3fe50/5251779202/il_300x300.5251779202_l6xc.jpg",
+      "category": "Weddings",
+      "discount": "up to 30% off"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://i.etsystatic.com/21210780/r/il/e3fe50/5251779202/il_300x300.5251779202_l6xc.jpg",
+      "category": "Weddings",
+      "discount": "up to 30% off"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://i.etsystatic.com/21210780/r/il/e3fe50/5251779202/il_300x300.5251779202_l6xc.jpg",
+      "category": "Weddings",
+      "discount": "up to 30% off"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://i.etsystatic.com/21210780/r/il/e3fe50/5251779202/il_300x300.5251779202_l6xc.jpg",
+      "category": "Weddings",
+      "discount": "up to 30% off"
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://i.etsystatic.com/21210780/r/il/e3fe50/5251779202/il_300x300.5251779202_l6xc.jpg",
+      "category": "Weddings",
+      "discount": "up to 30% off"
+    }
+  ],
+  "emailSection": {
+    "text": "Yes! Send me exclusive offers, unique gift ideas, and personalised tips for shopping and selling on Etsy.",
+    "placeholder": "Enter your email",
+    "buttonText": "Subscribe"
+  },
+  "renewableEnergySection": {
+    "text": "Etsy is powered by 100% renewable electricity."
   }
 }

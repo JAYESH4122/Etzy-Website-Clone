@@ -23,5 +23,5 @@
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true
   },
-  "include": ["src", "examples/Footer.tsx"]
+  "include": ["src", "src/components/molecule/Footer.tsx"]
 }

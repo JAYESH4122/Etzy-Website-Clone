@@ -79,3 +79,116 @@ export interface PopularGiftsCardProps {
   offerprice: string;
   offerpercentage: string;
 }
+export interface BackToSchoolImage {
+  src: string;
+  width: number;
+  height: number;
+}
+
+export interface BackToSchoolData {
+  title: string;
+  subtitle: string;
+  ctaText: string;
+  description: string;
+  images: BackToSchoolImage[];
+}
+
+export interface BackToSchoolSectionData {
+  backToSchool: BackToSchoolData;
+}
+
+export interface Shop {
+  productImage: string;
+  productAlt: string;
+  listingId: string;
+  shopLogo: string;
+  shopName: string;
+  logoHeight: number;
+}
+
+export interface DiscoverShopsData {
+  title: string;
+  subtitle: string;
+  ctaText: string;
+  shops: Shop[];
+}
+
+export interface DiscoverShopsSectionData {
+  discoverShops: DiscoverShopsData;
+}
+
+export interface FooterLink {
+  text: string;
+}
+
+export interface FooterColumn {
+  title: string;
+  links: FooterLink[];
+}
+
+export interface FooterData {
+  shopLinks: FooterLink[];
+  sellLinks: FooterLink[];
+  aboutLinks: FooterLink[];
+  helpLinks: FooterLink[];
+  footerBottomLinks: string[];
+  countryInfo: {
+    country: string;
+    language: string;
+    currency: string;
+  };
+  copyright: string;
+}
+
+export interface BlogPost {
+  id: number;
+  category: string;
+  title: string;
+  description: string;
+  imageUrl: string;
+  altText?: string;
+}
+
+export interface BlogSectionData {
+  sectionTitle: string;
+  posts: BlogPost[];
+}
+
+export interface Question {
+  id: number;
+  title: string;
+  content: string;
+}
+
+export interface QuestionnaireData {
+  mainTitle: string;
+  subtitle: string;
+  questions: Question[];
+  helpSection: {
+    title: string;
+    buttonText: string;
+  };
+}
+
+export interface SaveNowItem {
+  id: number;
+  imageUrl: string;
+  category: string;
+  discount: string;
+}
+
+export interface SaveNowData {
+  heading: string;
+  items: SaveNowItem[];
+}
+
+export interface SubFooterData {
+  emailSection: {
+    text: string;
+    placeholder: string;
+    buttonText: string;
+  };
+  renewableEnergySection: {
+    text: string;
+  };
+}
