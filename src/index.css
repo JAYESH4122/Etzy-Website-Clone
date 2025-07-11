@@ -2430,3 +2430,29 @@ h3 {
     margin-bottom: 8px;
   }
 }
+@media (min-width: 1440px) {
+  .footer-sub {
+    max-width: 100%;
+  }
+  .fresh-blog-section-container {
+    max-width: 1210px;
+    margin: 0 auto;
+  }
+  .discover-shops-section {
+    max-width: 1210px;
+    margin: 0 auto;
+  }
+  .save-now-section {
+    max-width: 1210px;
+    margin: 0 auto;
+  }
+  .back-to-school-section {
+    max-width: 1210px;
+    margin: 0 auto;
+  }
+  .popular-category-container {
+    max-width: 1210px;
+    margin: 0 auto;
+    padding-bottom: 60px !important;
+  }
+}
