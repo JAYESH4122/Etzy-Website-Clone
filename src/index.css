@@ -723,7 +723,7 @@ h3 {
   align-items: center;
 }
 .footer-section-one-left .footer-section-one-left-container span {
-  padding-left: 4px;
+  padding-left: 3px;
   padding-top: 3px;
 }
 .footer-section-one-left .footer-section-one-left-container span .footer-text {
@@ -1862,7 +1862,7 @@ h3 {
   .footer-sub-applink-left-section .download-btn {
     font-size: 12.99px;
     min-height: 36px !important;
-    padding: 0px 15px 1px 15px !important;
+    padding: 0px 15px 0px 15px !important;
     margin-bottom: 20px;
   }
   .footer-sub-applink-left-section .download-btn span {
@@ -1886,7 +1886,7 @@ h3 {
     flex-direction: column;
   }
   .footer-sub-applink-left-section .logo-container {
-    padding: 6px 6px 1px 6px !important;
+    padding: 6px 6px 0px 6px !important;
     top: 0px !important;
   }
   /* .footer-sub-right-section {
@@ -2227,19 +2227,33 @@ h3 {
   .footer-sub {
     height: 313px;
   }
-  .sub-footer-list {
-    margin-top: 1px;
-  }
   .hero-right-bottom-content .content-title {
     margin-bottom: -2px;
   }
   .first-image-container .shop-now-btn {
     padding: 13px 18px 13px 17px;
   }
+  .footer-section-one-left .footer-section-one-left-container span {
+    padding-top: 2px;
+  }
+  .footer-section-one-right-container .copyright-span {
+    margin-bottom: 0px;
+    margin-left: 38px;
+    margin-top: 1px;
+  }
+  .footer-section-one-right-container ul {
+    margin-top: 1px;
+  }
+  .footer-sub .footer-sub-right-section {
+    padding: 36px 0px 22px 37px;
+  }
+  .footer-sub-right-section-content-wrapper
+    .right-section-content-column-one:nth-of-type(3) {
+    padding-right: 95px;
+  }
 }
 .footer-logos-container .footer-logos-sub-container {
   position: relative;
-
   top: 16px;
 }
 .footer-logos-sub-container .footer-logos-wrapper:nth-of-type(1) svg {
@@ -2324,6 +2338,8 @@ h3 {
   }
   .footer-section-one-right-container ul span {
     margin-right: 11px;
+    position: relative;
+    bottom: 1px;
   }
   .footer-section-one-left .footer-section-one-left-container {
     padding: 21px 15px 22px 26px;
@@ -2331,6 +2347,7 @@ h3 {
   .footer-section-one-left .footer-section-one-left-container span {
     padding-left: 4px;
     padding-top: 0px;
+    font-weight: 500 !important;
   }
   .right-section-content-column-one h3 {
     margin: 12px 0px;
@@ -2343,7 +2360,7 @@ h3 {
     margin-left: 78px;
     margin-bottom: 1px;
     margin-top: 46px;
-    top: 1px;
+    top: 0px;
   }
   .footer-logos-container .footer-logos-wrapper svg {
     width: 36px;
@@ -2358,7 +2375,13 @@ h3 {
     margin-bottom: 18px;
   }
   .input-field-container p {
-    right: 54px;
+    right: 8px;
+  }
+  .footer-section-one-right-container .copyright-span {
+    margin-bottom: 13px;
+  }
+  .footer-logos-sub-container .footer-logos-wrapper:nth-of-type(3) {
+    margin-left: -1px;
   }
 }
 .wrappery {
